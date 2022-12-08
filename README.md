@@ -1,1 +1,0 @@
-# HackShow-Voting-Front
